@@ -1,4 +1,4 @@
-# BLZD ESX RP Chat - A Modern FiveM Chat System
+8# BLZD ESX RP Chat - A Modern FiveM Chat System
 
 A modern and configurable chat resource for FiveM servers using ESX Legacy. It provides multiple chat channels, local proximity messages, role-based tags, direct messages, admin chat, command suggestions, timestamps, sounds, and emoji support.
 
@@ -123,3 +123,5 @@ Config.Emojis = {
     '🚔', '🚑', '🏎️', '⚡', '🎯', '💎', '🗝️', '📱', '🎵', '✅',
 }
 ```
+
+This is a basic rp chat designed at a public server with stuff they would need. This was previous work for a server I made that is part of a bundle of resources I'm releasing for free.
